@@ -1,0 +1,11 @@
+< H4 >Términos relacionados con la seguridad informática< H4 >
+<p>Activo: recurso del sistema de información o relacionado con este, necesario para que la organización funcione correctamente y alcance los objetivos propuestos.
+Amenaza: es un evento que puede desencadenar un incidente en la organización, produciendo daños materiales o pérdidas inmateriales en sus activos. 
+Ataque: evento, exitoso o no, que atenta sobre el buen funcionamiento del sistema.
+Control: es una acción, dispositivo o procedimiento que elimina o reduce una vulnerabilidad.
+Impacto: medir la consecuencia al materializarse una amenaza. 
+Riesgo: Es la probabilidad de que suceda la amenaza o evento no deseado 
+Vulnerabilidad: Son aspectos que influyen negativamente en un activo y que posibilita la materialización de una amenaza. 
+Desastre o Contingencia: interrupción de la capacidad de acceso a información y procesamiento de la misma a través de computadoras necesarias para la operación normal de un negocio. 
+Aunque a simple vista se puede entender que un Riesgo y una Vulnerabilidad se podrían englobar un mismo concepto, una definición más informal denota la diferencia entre riesgo y vulnerabilidad, de modo que la Vulnerabilidad está ligada a una Amenaza y el Riesgo a un Impacto. 
+Se puede describir la relación entre vulnerabilidad, amenaza y control de la siguiente manera: una amenaza puede ser bloqueada aplicando un control a una vulnerabilidad.<p>
